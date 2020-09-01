@@ -7,6 +7,6 @@ public class _1012 {
         float f;
         Scanner scanner = new Scanner(System.in);
         f = scanner.nextFloat();
-        System.out.println(f);
+        System.out.printf("%f", f);
     }
 }
