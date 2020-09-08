@@ -8,7 +8,7 @@ public class _1024 {
         String word = scanner.next();
         if(word.length() <= 20){
             for (int i=0; i<=word.length()-1; i++){
-                System.out.println("\'"+word.charAt(i)+"\'");
+                System.out.println("'"+word.charAt(i)+"'");
             }
         }
     }
