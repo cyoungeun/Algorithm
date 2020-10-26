@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.L1;
 
 public class _10718 {
     public static void main(String[] args) {
