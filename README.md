@@ -1,1 +1,1 @@
-# <h5>Algorithm Study</h5>
+<h2>💻 Algorithm Study</h2>
