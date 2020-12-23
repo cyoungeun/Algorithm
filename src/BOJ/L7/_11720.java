@@ -13,7 +13,7 @@ public class _11720 {
         for (int i = 0; i < n; i++) {
 
             // charAt() 메서드는 해당 문자의 아스키코드 값을 반환함
-            sum += nNum.charAt(i) - '0'; // -'0' or -48 해줘야 입력받은 값 사용가능
+            sum += nNum.charAt(i) - '0'; // -'0' or -48 해줘야 입력받은 숫자 값 사용가능
         }
         System.out.println(sum);
     }
