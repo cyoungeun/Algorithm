@@ -86,5 +86,6 @@
 
 #### 9단계(L9) : 기본 수학 2
 - [x] [1978](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1978.java) - 소수 찾기
+- [x] [2581](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_2581.java) - 소수
 
 </details>
