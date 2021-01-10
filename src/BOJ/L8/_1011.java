@@ -13,7 +13,7 @@ public class _1011 {
             
             int d = y - x; // 이동 거리
             int count = 0; // 이동 횟수
-            int max = (int)Math.sqrt(d); // // 최대 이동 거리 = 제곱근(√) 이동거리(d) = √d
+            int max = (int)Math.sqrt(d); // 최대 이동 거리 = 제곱근(√) 이동거리(d) = √d
 
 
             if(max == Math.sqrt(d)) { // 루트 값이 정수 일 경우
