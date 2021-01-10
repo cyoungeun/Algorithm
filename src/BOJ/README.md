@@ -82,7 +82,7 @@
 - [x] [2775](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_2775.java) - 부녀회장이 될테야
 - [x] [2839](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_2839.java) - 설탕배달
 - [x] [10757](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_10757.java) - 큰 수 A+B
-- [ ] [1011]() - Fly me to the Alpha Centauri
+- [x] [1011](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_1011.java) - Fly me to the Alpha Centauri
 
 #### 9단계(L9) : 기본 수학 2
 - [x] [1978](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1978.java) - 소수 찾기
