@@ -89,5 +89,6 @@
 - [x] [2581](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_2581.java) - 소수
 - [x] [11653](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_11653.java) - 소인수분해
 - [x] [1929](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1929.java) - 소수 구하기
+- [x] [4948](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_4948.java) - 베르트랑 공준
 
 </details>
