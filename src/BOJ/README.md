@@ -72,7 +72,6 @@
 - [x] [2941](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L7/_2941.java) - 크로아티아 알파벳
 - [x] [1316](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L7/_1316.java) - 그룹 단어 체커
 
-
 #### 8단계(L8) : 기본 수학 1
 - [x] [1712](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_1712.java) - 손익분기점
 - [x] [2292](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L8/_2292.java) - 벌집
@@ -90,5 +89,6 @@
 - [x] [11653](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_11653.java) - 소인수분해
 - [x] [1929](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1929.java) - 소수 구하기
 - [x] [4948](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_4948.java) - 베르트랑 공준
+- [x] [9020](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_9020.java) - 골드바흐의 추측
 
 </details>
