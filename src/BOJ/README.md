@@ -90,5 +90,7 @@
 - [x] [1929](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1929.java) - 소수 구하기
 - [x] [4948](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_4948.java) - 베르트랑 공준
 - [x] [9020](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_9020.java) - 골드바흐의 추측
+- [x] [1085](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1085.java) - 직사각형에서 탈출
+- [x] [3009](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_3009.java) - 네 번째 점
 
 </details>
