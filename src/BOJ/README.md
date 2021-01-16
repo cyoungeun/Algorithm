@@ -93,5 +93,6 @@
 - [x] [1085](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1085.java) - 직사각형에서 탈출
 - [x] [3009](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_3009.java) - 네 번째 점
 - [x] [4153](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_4153.java) - 직각삼각형
+- [x] [3053](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_3053.java) - 택시 기하학
 
 </details>
