@@ -96,4 +96,7 @@
 - [x] [3053](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_3053.java) - 택시 기하학
 - [x] [1002](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L9/_1002.java) - 터렛
 
+#### 10단계(L10) : 재귀
+- [x] [10872](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L10/_10872.java) - 팩토리얼 
+
 </details>
