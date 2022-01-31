@@ -98,5 +98,7 @@
 
 #### 10단계(L10) : 재귀
 - [x] [10872](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L10/_10872.java) - 팩토리얼 
+- [x] [10870](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L10/_10870.java) - 피보나치 수 5
+
 
 </details>
