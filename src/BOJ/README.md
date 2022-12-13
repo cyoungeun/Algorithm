@@ -21,6 +21,7 @@
 - [x] [10430](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_10430.java) - 나머지
 - [x] [2588](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_2588.java) - 곱셈
 - [x] [10926](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_10926.java) - ??!
+- [x] [18108](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_18108.java) - 1998년생이 태국에서는 2541년생
 
 #### 2단계(L2) : if문
 - [x] [1330](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_1330.java) - 두 수 비교하기
