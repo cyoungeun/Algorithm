@@ -33,6 +33,7 @@
 - [x] [14681](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_14681.java) - 사분면 고르기
 - [x] [2884](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2884.java) - 알람 시계
 - [x] [2525](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2525.java) - 오븐 시계
+- [x] [2480](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2480.java) - 주사위 세개
 
 #### 3단계(L3) : 반복문
 - [x] [2739](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L3/_2739.java) - 구구단
