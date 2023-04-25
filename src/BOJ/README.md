@@ -26,14 +26,15 @@
 - [x] [3003](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_3003.java) - 킹, 퀸, 룩, 비숍, 나이트, 폰 
 - [x] [11382](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L1/_11382.java) - 꼬마 정민
 
-#### 2단계(L2) : if문
+#### 2단계(L2) : 조건문
 - [x] [1330](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_1330.java) - 두 수 비교하기
 - [x] [9498](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_9498.java) - 시험 성적
 - [x] [2753](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2753.java) - 윤년
 - [x] [14681](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_14681.java) - 사분면 고르기
 - [x] [2884](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2884.java) - 알람 시계
+- [x] [2525](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L2/_2525.java) - 오븐 시계
 
-#### 3단계(L3) : for문
+#### 3단계(L3) : 반복문
 - [x] [2739](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L3/_2739.java) - 구구단
 - [x] [10950](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L3/_10950.java) - 	A+B - 3
 - [x] [8393](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L3/_8393.java) - 합
