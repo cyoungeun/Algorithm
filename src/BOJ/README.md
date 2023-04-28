@@ -52,6 +52,7 @@
 - [x] [2562](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L4/_2562.java) - 최댓값
 - [x] [3052](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L4/_3052.java) - 나머지
 - [x] [1546](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L4/_1546.java) - 평균
+- [x] [10807](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L4/_10807.java) - 개수 세기
 
 #### 5단계(L5) : 문자열
 - [x] [11654](https://github.com/cyoungeun/Algorithm/blob/master/src/BOJ/L5/_11654.java) - 아스키 코드
